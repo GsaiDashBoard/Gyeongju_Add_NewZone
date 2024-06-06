@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "jsreport",
+            "cwd": "/home/gasi/dashboard/jsreport",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}

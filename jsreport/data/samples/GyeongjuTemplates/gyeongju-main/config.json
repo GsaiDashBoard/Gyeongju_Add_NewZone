@@ -1,0 +1,25 @@
+{
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "fj08ANC"
+    },
+    "name": "gyeongju-main",
+    "chrome": {
+        "printBackground": true,
+        "marginTop": "1cm",
+        "marginRight": "1cm",
+        "marginBottom": "1cm",
+        "marginLeft": "1cm",
+        "landscape": true
+    },
+    "creationDate": {
+        "$$date": 1691453615525
+    },
+    "modificationDate": {
+        "$$date": 1691453615525
+    },
+    "shortid": "VBERwF0",
+    "_id": "1Cy9jwXE64PwXfZY",
+    "$entitySet": "templates"
+}

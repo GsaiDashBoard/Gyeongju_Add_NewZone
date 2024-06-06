@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "backend",
+            "cwd": "/home/junseok/dashboard/back/",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}

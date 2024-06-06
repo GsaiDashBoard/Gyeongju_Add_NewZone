@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "front",
+            "cwd": "/home/gasi/dashboard/front",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
