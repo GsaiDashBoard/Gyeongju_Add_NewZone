@@ -33,21 +33,30 @@ db.sequelize1
   .then(() => {
     console.log("db1연결성공");
   })
-  .catch(console.error);
+  .catch((error) => {
+    console.error("db2연결 실패");
+    console.error(error);
+  });
 
 db.sequelize2
   .sync()
   .then(() => {
     console.log("db2연결성공");
   })
-  .catch(console.error);
+  .catch((error) => {
+    console.error("db2연결 실패");
+    console.error(error);
+  });
 
 db.sequelize3
   .sync()
   .then(() => {
     console.log("db3연결성공");
   })
-  .catch(console.error);
+  .catch((error) => {
+    console.error("db3연결 실패");
+    console.error(error);
+  });
 
 passportConfig();
 

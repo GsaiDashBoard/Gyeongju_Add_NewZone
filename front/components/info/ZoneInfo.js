@@ -18,8 +18,7 @@ const BoxBlock = styled.div`
     text-align: center;
     font-size: 18px;
     color: #fafbf6;
-    text-shadow: -1px 0px #313131, 0px 1px #313131, 1px 0px #313131,
-      0px -1px #313131;
+    text-shadow: -1px 0px #313131, 0px 1px #313131, 1px 0px #313131, 0px -1px #313131;
     font-weight: bolder;
     padding: 5px 0 5px 0;
     border-radius: 5px 5px 0 0;
